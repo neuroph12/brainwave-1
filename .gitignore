@@ -1,3 +1,12 @@
+# contacts (may contain private information, do not track in version control)
+contacts.env
+
+# Mac OS
+.DS_Store
+
+# VSCode
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
